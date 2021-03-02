@@ -1,0 +1,7 @@
+# FIXED
+
+OLED/HC_SR501.obj: ../OLED/HC_SR501.c
+OLED/HC_SR501.obj: ../OLED/HC_SR501.h
+
+../OLED/HC_SR501.c: 
+../OLED/HC_SR501.h: 
